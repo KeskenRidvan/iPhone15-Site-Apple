@@ -1,0 +1,15 @@
+#photos {
+  .section-content {
+    height: 375px;
+  }
+
+  .photo {
+    img {
+      width: 100%;
+      height: auto;
+      display: block;
+      aspect-ratio: 1;
+      object-fit: cover;
+    }
+  }
+}
